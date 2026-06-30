@@ -1,4 +1,3 @@
-[4.md](https://github.com/user-attachments/files/29462988/4.md)
 # 🏏 IPL Insights — End-to-End Indian Premier League Data Analytics Project
 
 
@@ -465,22 +464,16 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for full text.
 - **Inspiration:** ESPNcricinfo Statsguru, Cricsheet, and every analyst who has ever argued about strike rate over chai.
 
 ---
-
-# Author
+## 👤 Author
 
 **HARI BABU C H**
 
-- **Role:** Frontend Developer | Data Analyst
-- **GitHub:** [https://github.com/haribabux7](https://github.com/haribabux7)
-- **LinkedIn:** [https://www.linkedin.com/in/haribabux7](https://www.linkedin.com/in/haribabux7)
-- **Portfolio:** [https://www.haribabu.me](https://www.haribabu.me)
-- **Email:** [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
+Frontend Developer | Data Analyst | Chennai, India
+
+- 🌐 Portfolio: [https://www.haribabu.me](https://www.haribabu.me)
+- 💼 LinkedIn: [https://www.linkedin.com/in/haribabux8](https://www.linkedin.com/in/haribabux8)
+- 🐙 GitHub: [https://github.com/haribabux8](https://github.com/haribabux8)
+- 📧 Email: [haribabuc458@gmail.com](mailto:haribabuc458@gmail.com)
 
 ---
 
-## Project Information
-
-| Field | Value |
-|---|---|
-| Version | 1.0.0 |
-| Designed Date | November 2025 |
